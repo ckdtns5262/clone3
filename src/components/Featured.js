@@ -48,6 +48,25 @@ const Featured = () => {
         title:"Midjourney", 
         description :"The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
         size :<p>471,689명 온라인 &#x2022; 멤버 232,061명</p>
+        },{
+         bg:picture6, 
+        profile:pro2, 
+        title:"Midjourney", 
+        description :"The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
+        size : <p>471,689명 온라인 &#x2022; 멤버 232,061명</p>
+        },
+        {
+        bg:picture2, 
+        profile:pro2, 
+        title:"Midjourney", 
+        description :"The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
+        size :<p>471,689명 온라인 &#x2022; 멤버 232,061명</p>
+        },{
+        bg:picture3, 
+        profile:pro2, 
+        title:"Midjourney", 
+        description :"The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
+        size :<p>471,689명 온라인 &#x2022; 멤버 232,061명</p>
         },
     ]
   return (
